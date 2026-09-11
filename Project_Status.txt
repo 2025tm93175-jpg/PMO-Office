@@ -1,0 +1,10 @@
+PMO Project Status
+
+Project: PMO Office Project
+Overall Status: In Progress
+
+Current Activities:
+1. Requirement Analysis - Completed
+2. Design - In Progress
+3. Development - Not Started
+4. Testing - Not Started

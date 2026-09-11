@@ -1,0 +1,10 @@
+PMO Location Resources
+
+Hyderabad:
+Employee A - 100% allocation
+
+Bangalore:
+Employee B - 75% allocation
+
+Pune:
+Employee C - 50% allocation
